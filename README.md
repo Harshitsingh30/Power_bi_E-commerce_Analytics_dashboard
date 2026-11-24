@@ -73,6 +73,8 @@ Toys, and Clothing.
 ● Reduce product return rates by improving product quality, descriptions, and delivery 
 accuracy. 
 
+8. Dashboard Snapshot
+
 <img width="1366" height="768" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/7c15f2ed-ceda-41ed-8cca-2f6e1aaf0269" />
 
 <img width="1366" height="768" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/d25c8fa3-09c6-4e60-a025-b195cfac9375" />
