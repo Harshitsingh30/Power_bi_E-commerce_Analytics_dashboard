@@ -78,3 +78,8 @@ Cleaned and transformed the data before analysis.
 ● Maintain adequate inventory levels for high-demand categories such as Pet Supplies, Toys, and Clothing.
 
 ● Reduce product return rates by improving product quality, descriptions, and delivery accuracy.
+
+<img width="571" height="327" alt="Screenshot 2026-11-28 090659" src="https://github.com/user-attachments/assets/9a2ad3aa-b805-4c75-a74b-8ee3a4a3019e" />
+<img width="572" height="322" alt="Screenshot 2026-11-28 090815" src="https://github.com/user-attachments/assets/e5336c2a-9726-4175-bece-0a05fa3e9a08" />
+<img width="572" height="325" alt="Screenshot 2026-11-28 090856" src="https://github.com/user-attachments/assets/26e2ed67-e759-4d14-9a39-bc57d68c4dd7" />
+
